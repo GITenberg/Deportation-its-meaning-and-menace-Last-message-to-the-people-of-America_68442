@@ -1,5 +1,8 @@
 _repo: Deportation-its-meaning-and-menace-Last-message-to-the-people-of-America_68442
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68442-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Goldman, Emma
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37004
     wikipedia: https://en.wikipedia.org/wiki/Alexander_Berkman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68442#Deportation-its-meaning-and-menace-Last-message-to-the-people-of-America
 gutenberg_issued: '2022-07-01'
 identifiers:
   gutenberg: '68442'
